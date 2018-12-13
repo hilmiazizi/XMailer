@@ -1,0 +1,3 @@
+mail.apple.com
+mail.appleid.com
+mail.appleid.apple.com
