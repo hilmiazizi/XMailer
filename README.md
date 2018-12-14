@@ -52,4 +52,6 @@ XMailer has 3 Feature which is :
       "somedomain.com" domain.
       that all list file will be mixed one by one and send it to the desired address.
       so it will take some time to send if you have many list.
+      
+      
 Keep this tool still free by donating, hilmiazizi19@gmail.com
